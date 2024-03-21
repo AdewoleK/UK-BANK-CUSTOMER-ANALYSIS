@@ -1,0 +1,1 @@
+The insight given by the data set shows clearly that white collar job is the highest paying job in UK with 47.97% rate. This report also shows that with all the region in UK, England still has the highest earners among others, this validate that the fact that England is the business capital of United Kingdom.
